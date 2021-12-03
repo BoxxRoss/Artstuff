@@ -24,12 +24,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/ROR2template/ROR2template.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/ROR2template/ROR2template.yy",},"LayerId":{"name":"cd010e3d-8816-439a-9ca6-dd78c0a48e8a","path":"sprites/ROR2template/ROR2template.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"ROR2template","path":"sprites/ROR2template/ROR2template.yy",},"resourceVersion":"1.0","name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/Medkit/Medkit.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/Medkit/Medkit.yy",},"LayerId":{"name":"cd010e3d-8816-439a-9ca6-dd78c0a48e8a","path":"sprites/Medkit/Medkit.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/Medkit/Medkit.yy",},"LayerId":{"name":"64b991af-bb8b-4b1a-bb8e-7effc471855e","path":"sprites/Medkit/Medkit.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Medkit","path":"sprites/Medkit/Medkit.yy",},"resourceVersion":"1.0","name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"ROR2template","path":"sprites/ROR2template/ROR2template.yy",},
+    "spriteId": {"name":"Medkit","path":"sprites/Medkit/Medkit.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +42,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"fff825b8-3f85-4df9-8897-12a16d6cbb87","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/ROR2template/ROR2template.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"baec3bd4-d905-4f64-861e-b222f0553dbd","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/Medkit/Medkit.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,13 +59,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"ROR2template","path":"sprites/ROR2template/ROR2template.yy",},
+    "parent": {"name":"Medkit","path":"sprites/Medkit/Medkit.yy",},
     "resourceVersion": "1.3",
-    "name": "ROR2template",
+    "name": "Medkit",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"64b991af-bb8b-4b1a-bb8e-7effc471855e","tags":[],"resourceType":"GMImageLayer",},
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"cd010e3d-8816-439a-9ca6-dd78c0a48e8a","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
@@ -73,7 +75,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "ROR2template",
+  "name": "Medkit",
   "tags": [],
   "resourceType": "GMSprite",
 }
