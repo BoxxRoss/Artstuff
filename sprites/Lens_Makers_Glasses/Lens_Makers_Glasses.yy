@@ -26,6 +26,7 @@
   "frames": [
     {"compositeImage":{"FrameId":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/Lens_Makers_Glasses/Lens_Makers_Glasses.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/Lens_Makers_Glasses/Lens_Makers_Glasses.yy",},"LayerId":{"name":"cd010e3d-8816-439a-9ca6-dd78c0a48e8a","path":"sprites/Lens_Makers_Glasses/Lens_Makers_Glasses.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/Lens_Makers_Glasses/Lens_Makers_Glasses.yy",},"LayerId":{"name":"fef6c4f6-4fc3-47bc-9f44-f85634cc63dc","path":"sprites/Lens_Makers_Glasses/Lens_Makers_Glasses.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Lens_Makers_Glasses","path":"sprites/Lens_Makers_Glasses/Lens_Makers_Glasses.yy",},"resourceVersion":"1.0","name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
@@ -65,6 +66,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"fef6c4f6-4fc3-47bc-9f44-f85634cc63dc","tags":[],"resourceType":"GMImageLayer",},
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"cd010e3d-8816-439a-9ca6-dd78c0a48e8a","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,

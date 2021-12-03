@@ -25,8 +25,8 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/Monster_Tooth/Monster_Tooth.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/Monster_Tooth/Monster_Tooth.yy",},"LayerId":{"name":"cd010e3d-8816-439a-9ca6-dd78c0a48e8a","path":"sprites/Monster_Tooth/Monster_Tooth.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/Monster_Tooth/Monster_Tooth.yy",},"LayerId":{"name":"ccf86e90-6c96-41a5-a653-b171c9e1d828","path":"sprites/Monster_Tooth/Monster_Tooth.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/Monster_Tooth/Monster_Tooth.yy",},"LayerId":{"name":"cd010e3d-8816-439a-9ca6-dd78c0a48e8a","path":"sprites/Monster_Tooth/Monster_Tooth.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Monster_Tooth","path":"sprites/Monster_Tooth/Monster_Tooth.yy",},"resourceVersion":"1.0","name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {

@@ -26,6 +26,7 @@
   "frames": [
     {"compositeImage":{"FrameId":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/Puals_Goat_Hoof/Puals_Goat_Hoof.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/Puals_Goat_Hoof/Puals_Goat_Hoof.yy",},"LayerId":{"name":"cd010e3d-8816-439a-9ca6-dd78c0a48e8a","path":"sprites/Puals_Goat_Hoof/Puals_Goat_Hoof.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/Puals_Goat_Hoof/Puals_Goat_Hoof.yy",},"LayerId":{"name":"7829bbb6-a3b1-4d7f-9780-4edbd8077c54","path":"sprites/Puals_Goat_Hoof/Puals_Goat_Hoof.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Puals_Goat_Hoof","path":"sprites/Puals_Goat_Hoof/Puals_Goat_Hoof.yy",},"resourceVersion":"1.0","name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
@@ -65,6 +66,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"7829bbb6-a3b1-4d7f-9780-4edbd8077c54","tags":[],"resourceType":"GMImageLayer",},
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"cd010e3d-8816-439a-9ca6-dd78c0a48e8a","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,

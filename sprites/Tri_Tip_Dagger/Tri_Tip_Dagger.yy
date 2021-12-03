@@ -25,8 +25,8 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"bc9f6f6c-0e1d-4f9b-ab55-45586d66de5c","path":"sprites/Tri_Tip_Dagger/Tri_Tip_Dagger.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bc9f6f6c-0e1d-4f9b-ab55-45586d66de5c","path":"sprites/Tri_Tip_Dagger/Tri_Tip_Dagger.yy",},"LayerId":{"name":"5b5026b7-3ad1-45d0-ade4-e426571a41fd","path":"sprites/Tri_Tip_Dagger/Tri_Tip_Dagger.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"bc9f6f6c-0e1d-4f9b-ab55-45586d66de5c","path":"sprites/Tri_Tip_Dagger/Tri_Tip_Dagger.yy",},"LayerId":{"name":"e171d57b-b612-4aa0-b5e2-2112132f315f","path":"sprites/Tri_Tip_Dagger/Tri_Tip_Dagger.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"bc9f6f6c-0e1d-4f9b-ab55-45586d66de5c","path":"sprites/Tri_Tip_Dagger/Tri_Tip_Dagger.yy",},"LayerId":{"name":"89eb8dd4-543b-426d-96d9-86f5bbdc8c7a","path":"sprites/Tri_Tip_Dagger/Tri_Tip_Dagger.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Tri_Tip_Dagger","path":"sprites/Tri_Tip_Dagger/Tri_Tip_Dagger.yy",},"resourceVersion":"1.0","name":"bc9f6f6c-0e1d-4f9b-ab55-45586d66de5c","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
@@ -66,7 +66,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"5b5026b7-3ad1-45d0-ade4-e426571a41fd","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 2","resourceVersion":"1.0","name":"89eb8dd4-543b-426d-96d9-86f5bbdc8c7a","tags":[],"resourceType":"GMImageLayer",},
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"e171d57b-b612-4aa0-b5e2-2112132f315f","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,

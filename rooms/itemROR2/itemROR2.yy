@@ -19,7 +19,8 @@
         {"spriteId":{"name":"Lens_Makers_Glasses","path":"sprites/Lens_Makers_Glasses/Lens_Makers_Glasses.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":111.0,"y":0.0,"resourceVersion":"1.0","name":"graphic_38DF4181","tags":[],"resourceType":"GMRSpriteGraphic",},
         {"spriteId":{"name":"Puals_Goat_Hoof","path":"sprites/Puals_Goat_Hoof/Puals_Goat_Hoof.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":148.0,"y":0.0,"resourceVersion":"1.0","name":"graphic_474AA71C","tags":[],"resourceType":"GMRSpriteGraphic",},
         {"spriteId":{"name":"Monster_Tooth","path":"sprites/Monster_Tooth/Monster_Tooth.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":74.0,"y":0.0,"resourceVersion":"1.0","name":"graphic_5E6BDD7C","tags":[],"resourceType":"GMRSpriteGraphic",},
-      ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":37,"gridY":36,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Assets_1","tags":[],"resourceType":"GMRAssetLayer",},
+        {"spriteId":{"name":"Medkit","path":"sprites/Medkit/Medkit.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":407.0,"y":0.0,"resourceVersion":"1.0","name":"graphic_678DAB3E","tags":[],"resourceType":"GMRSpriteGraphic",},
+      ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":37,"gridY":37,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Assets_1","tags":[],"resourceType":"GMRAssetLayer",},
     {"instances":[],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":37,"gridY":36,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"spriteId":{"name":"background","path":"sprites/background/background.yy",},"colour":4278190080,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":37,"gridY":36,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
@@ -32,7 +33,7 @@
   "roomSettings": {
     "inheritRoomSettings": false,
     "Width": 481,
-    "Height": 288,
+    "Height": 296,
     "persistent": false,
   },
   "viewSettings": {
