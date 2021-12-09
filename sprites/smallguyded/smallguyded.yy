@@ -58,7 +58,7 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"smallguy","path":"sprites/smallguy/smallguy.yy",},
+    "parent": {"name":"smallguyded","path":"sprites/smallguyded/smallguyded.yy",},
     "resourceVersion": "1.3",
     "name": "smallguyded",
     "tags": [],

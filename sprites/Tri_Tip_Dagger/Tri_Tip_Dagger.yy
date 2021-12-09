@@ -25,8 +25,8 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"bc9f6f6c-0e1d-4f9b-ab55-45586d66de5c","path":"sprites/Tri_Tip_Dagger/Tri_Tip_Dagger.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bc9f6f6c-0e1d-4f9b-ab55-45586d66de5c","path":"sprites/Tri_Tip_Dagger/Tri_Tip_Dagger.yy",},"LayerId":{"name":"e171d57b-b612-4aa0-b5e2-2112132f315f","path":"sprites/Tri_Tip_Dagger/Tri_Tip_Dagger.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"bc9f6f6c-0e1d-4f9b-ab55-45586d66de5c","path":"sprites/Tri_Tip_Dagger/Tri_Tip_Dagger.yy",},"LayerId":{"name":"89eb8dd4-543b-426d-96d9-86f5bbdc8c7a","path":"sprites/Tri_Tip_Dagger/Tri_Tip_Dagger.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"bc9f6f6c-0e1d-4f9b-ab55-45586d66de5c","path":"sprites/Tri_Tip_Dagger/Tri_Tip_Dagger.yy",},"LayerId":{"name":"e171d57b-b612-4aa0-b5e2-2112132f315f","path":"sprites/Tri_Tip_Dagger/Tri_Tip_Dagger.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Tri_Tip_Dagger","path":"sprites/Tri_Tip_Dagger/Tri_Tip_Dagger.yy",},"resourceVersion":"1.0","name":"bc9f6f6c-0e1d-4f9b-ab55-45586d66de5c","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
