@@ -30,6 +30,7 @@
     {"id":{"name":"walkin","path":"objects/walkin/walkin.yy",},"order":1,},
     {"id":{"name":"MAINTEMPLATE","path":"sprites/MAINTEMPLATE/MAINTEMPLATE.yy",},"order":14,},
     {"id":{"name":"Sticky_Bomb","path":"sprites/Sticky_Bomb/Sticky_Bomb.yy",},"order":25,},
+    {"id":{"name":"Soldiers_Syringe","path":"sprites/Soldiers_Syringe/Soldiers_Syringe.yy",},"order":28,},
     {"id":{"name":"smallguyblink","path":"sprites/smallguyblink/smallguyblink.yy",},"order":9,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
