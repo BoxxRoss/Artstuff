@@ -24,13 +24,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/ROR2_ITEM_TEMPLETE/ROR2_ITEM_TEMPLETE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/ROR2_ITEM_TEMPLETE/ROR2_ITEM_TEMPLETE.yy",},"LayerId":{"name":"e19cba0c-57f8-40ee-93e1-a1ae2a276a5c","path":"sprites/ROR2_ITEM_TEMPLETE/ROR2_ITEM_TEMPLETE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/ROR2_ITEM_TEMPLETE/ROR2_ITEM_TEMPLETE.yy",},"LayerId":{"name":"cd010e3d-8816-439a-9ca6-dd78c0a48e8a","path":"sprites/ROR2_ITEM_TEMPLETE/ROR2_ITEM_TEMPLETE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"ROR2_ITEM_TEMPLETE","path":"sprites/ROR2_ITEM_TEMPLETE/ROR2_ITEM_TEMPLETE.yy",},"resourceVersion":"1.0","name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/ROR2_ITEM_TEMPLETE_COMMON/ROR2_ITEM_TEMPLETE_COMMON.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/ROR2_ITEM_TEMPLETE_COMMON/ROR2_ITEM_TEMPLETE_COMMON.yy",},"LayerId":{"name":"e19cba0c-57f8-40ee-93e1-a1ae2a276a5c","path":"sprites/ROR2_ITEM_TEMPLETE_COMMON/ROR2_ITEM_TEMPLETE_COMMON.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/ROR2_ITEM_TEMPLETE_COMMON/ROR2_ITEM_TEMPLETE_COMMON.yy",},"LayerId":{"name":"cd010e3d-8816-439a-9ca6-dd78c0a48e8a","path":"sprites/ROR2_ITEM_TEMPLETE_COMMON/ROR2_ITEM_TEMPLETE_COMMON.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ROR2_ITEM_TEMPLETE_COMMON","path":"sprites/ROR2_ITEM_TEMPLETE_COMMON/ROR2_ITEM_TEMPLETE_COMMON.yy",},"resourceVersion":"1.0","name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"ROR2_ITEM_TEMPLETE","path":"sprites/ROR2_ITEM_TEMPLETE/ROR2_ITEM_TEMPLETE.yy",},
+    "spriteId": {"name":"ROR2_ITEM_TEMPLETE_COMMON","path":"sprites/ROR2_ITEM_TEMPLETE_COMMON/ROR2_ITEM_TEMPLETE_COMMON.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -42,7 +42,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"67bafe8a-e036-4c9c-bfb8-c700bf40e9a7","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/ROR2_ITEM_TEMPLETE/ROR2_ITEM_TEMPLETE.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"67bafe8a-e036-4c9c-bfb8-c700bf40e9a7","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e2af9e13-8eef-4f8b-8de8-d655ac46eacc","path":"sprites/ROR2_ITEM_TEMPLETE_COMMON/ROR2_ITEM_TEMPLETE_COMMON.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -59,9 +59,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"ROR2_ITEM_TEMPLETE","path":"sprites/ROR2_ITEM_TEMPLETE/ROR2_ITEM_TEMPLETE.yy",},
+    "parent": {"name":"ROR2_ITEM_TEMPLETE_COMMON","path":"sprites/ROR2_ITEM_TEMPLETE_COMMON/ROR2_ITEM_TEMPLETE_COMMON.yy",},
     "resourceVersion": "1.3",
-    "name": "ROR2_ITEM_TEMPLETE",
+    "name": "ROR2_ITEM_TEMPLETE_COMMON",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -75,7 +75,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "ROR2_ITEM_TEMPLETE",
+  "name": "ROR2_ITEM_TEMPLETE_COMMON",
   "tags": [],
   "resourceType": "GMSprite",
 }
